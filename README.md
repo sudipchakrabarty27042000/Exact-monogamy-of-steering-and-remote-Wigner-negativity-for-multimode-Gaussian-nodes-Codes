@@ -1,0 +1,2 @@
+# Exact-monogamy-of-steering-and-remote-Wigner-negativity-for-multimode-Gaussian-nodes-Codes
+Jupyter notebook reproducing all numerical results and figures of "Exact monogamy of steering and remote Wigner negativity for multimode Gaussian nodes". At most 2k−1 neighbors can steer a k-mode Gaussian node, and one heralded event makes all of them Wigner negative. Includes certified SDPs, Bell tests and teleportation checks.
